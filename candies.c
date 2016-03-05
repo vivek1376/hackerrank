@@ -1,4 +1,5 @@
-/* https://www.hackerrank.com/challenges/candies */
+/* https://www.hackerrank.com/challenges/candies 
+   ACCEPTED */
 
 #include <stdio.h>
 #include <string.h>
